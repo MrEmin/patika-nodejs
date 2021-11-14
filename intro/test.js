@@ -8,3 +8,17 @@ console.log("Önemli bir bildirim Test.js");
 // .load test.js yazarak repl'a bu dosyayı çağırmış oluruz.
 
 // repl bazı test çalışmalarında kullanılabilir. Genelde çalışmalarımızda çok fazla dosya olduğundan repl'ı kullanmayız.
+
+// REPL Komutları - Açıklamaları
+
+// help - Tüm komutları listeler.
+
+// break - Çok satırlı ifadeden çıkar.
+
+// ctrl + c - Çalışan komutu durdurur.
+
+// ctrl + d - REPL ortamını sonlandırır.
+
+// save dosya_adi - REPL ortamındaki kodları dosyaya kaydeder.
+
+// load dosya_adi - Dosyadaki kodları REPL ortamına alır.
