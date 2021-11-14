@@ -36,4 +36,3 @@ getData(true)
 
 function processData() {
     
-}
