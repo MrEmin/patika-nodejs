@@ -8,7 +8,7 @@ function showPrimeNumbers(lowNumber, highNumber) {
                 isPrime = false
             }
         }
-        if(isPrime) {
+        if(isPrime == true && i > 1) {
             console.log(i);
         }
     }
